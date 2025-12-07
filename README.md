@@ -1,6 +1,7 @@
 # LMProbe
 
 Auto-detect LLM API model availability and serve as a unified proxy with OpenAI and Claude-compatible endpoints.
+可用于打野自动测活
 
 ## Features
 
