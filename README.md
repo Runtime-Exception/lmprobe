@@ -71,11 +71,11 @@ python main.py list -c api.txt --endpoints
 ```
 https://api.example.com
 sk-your-api-key-here
-gpt-4o, gpt-4o-mini, gpt-4-turbo
+gpt-5-1-codex, gpt-5-high
 
-https://api.another.com
+https://api.notanthropic.com
 sk-another-key
-claude-3-5-sonnet, claude-3-opus
+claude-opus-4-5-20251101, claude-sonnet-4-5-20250929
 ```
 
 Pre-probed files include a marker:
